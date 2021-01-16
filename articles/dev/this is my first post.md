@@ -1,7 +1,7 @@
 ---
-title: This is my first post, and I published with help of GitHub Actions 👋 
+title: This is my first post 👋 
 date: "2020-10-31"
-last-modified: "2020-10-31"
+last-modified: "2021-01-16"
 description: When I heard about GitHub Actions and what are for I decided that I will use them someday.
 cover_image: https://dev-to-uploads.s3.amazonaws.com/i/tyqsw5u146wifn27zfbh.jpg
 tags: gatsby, github
