@@ -1,20 +1,24 @@
 ---
 title: This is my first post 👋 
 date: "2020-10-31"
-last-modified: "2021-01-16"
+last-modified: "2021-01-17"
 description: When I heard about GitHub Actions and what are for I decided that I will use them someday.
-cover_image: https://dev-to-uploads.s3.amazonaws.com/i/tyqsw5u146wifn27zfbh.jpg
+cover_image: "../../images/sprout.jpeg"
+cover_image_alt: "Sprout growing from the ground"
 tags: gatsby, github
-canonical_url: https://ptr-klk.github.io/posts/dev/first-post/
 ---
 
-When I heard about GitHub Actions and what are for I decided that I will use them someday. In this text, I'll focus on how I created my workflow rather than explaining things. More about GitHub Actions you can read on their's [documentation page](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions).
+>UPDATE 17-01-2021
+>
+>I created this text having in mind the previous version of my page. Take the below pieces of information with a grain of salt. This page has a different workflow file. Someday I'll create text about my current approach to building this page.
+
+In this text, I'll focus on how I created my workflow rather than explaining things. More about GitHub Actions you can read on their's [documentation page](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions).
 
 That day the light bulb in my head lit up. With GitHub Actions, I can publish my blog and dev.to posts from the comfort of the terminal. The actions that I used to build and deploy the site are [Gatsby Publish](https://github.com/marketplace/actions/gatsby-publish) and [TheActionDev](https://github.com/marketplace/actions/theactiondev) for sending articles to dev.to. 
 
 This is my workflow \*.yaml file:
 
-```
+```yaml
 name: Gatsby Publish
 
 on:
