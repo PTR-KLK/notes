@@ -9,6 +9,6 @@ I'm Piotr Kielak, without vowels it's PTR KLK, thus my nickname.
 
 I'm a Frontend Developer and also an avid DIY enthusiast.
 
-[[This digital garden]] is a text log of my adventures in programming, computer hardware, and other ideas that spark in my mind. It's a place for my shared [[projects]], [[articles]] and [[loose thoughts]].
+This digital garden is a text log of my adventures in programming, computer hardware, and other ideas that spark in my mind. It's a place for my shared [[projects]], [[articles]], [[loose thoughts]] and [[todos]].
 
 Check out [[about]] and [[contact]] pages for more additional info.
